@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Std
 
 [Preferences]
 PrefsVaultGUID=
@@ -117,8 +118,168 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueId=5395cd45-3840-4c98-bc48-b3a375b12248
+Description=Std
+AllowFabrication=0
+ParameterCount=0
+VariationCount=60
+Variation1=Designator=TP1_P1|UniqueId=\ZDRAQHCV\AQFVMHMX|Kind=1|AlternatePart=
+Variation2=Designator=TP3_P1|UniqueId=\ZDRAQHCV\SQUYUBBA|Kind=1|AlternatePart=
+Variation3=Designator=TP5_P1|UniqueId=\ZDRAQHCV\ZRWCQICQ|Kind=1|AlternatePart=
+Variation4=Designator=TP6_P1|UniqueId=\ZDRAQHCV\UIVPKKPS|Kind=1|AlternatePart=
+Variation5=Designator=TP4_P1|UniqueId=\ZDRAQHCV\TLRRFPDT|Kind=1|AlternatePart=
+Variation6=Designator=TP2_P1|UniqueId=\ZDRAQHCV\QLYKTHJV|Kind=1|AlternatePart=
+Variation7=Designator=TP2_P2|UniqueId=\OMABXDQK\QLYKTHJV|Kind=1|AlternatePart=
+Variation8=Designator=TP4_P2|UniqueId=\OMABXDQK\TLRRFPDT|Kind=1|AlternatePart=
+Variation9=Designator=TP6_P2|UniqueId=\OMABXDQK\UIVPKKPS|Kind=1|AlternatePart=
+Variation10=Designator=TP5_P2|UniqueId=\OMABXDQK\ZRWCQICQ|Kind=1|AlternatePart=
+Variation11=Designator=TP3_P2|UniqueId=\OMABXDQK\SQUYUBBA|Kind=1|AlternatePart=
+Variation12=Designator=TP1_P2|UniqueId=\OMABXDQK\AQFVMHMX|Kind=1|AlternatePart=
+Variation13=Designator=TP1_P3|UniqueId=\WHTUGQDQ\AQFVMHMX|Kind=1|AlternatePart=
+Variation14=Designator=TP3_P3|UniqueId=\WHTUGQDQ\SQUYUBBA|Kind=1|AlternatePart=
+Variation15=Designator=TP5_P3|UniqueId=\WHTUGQDQ\ZRWCQICQ|Kind=1|AlternatePart=
+Variation16=Designator=TP6_P3|UniqueId=\WHTUGQDQ\UIVPKKPS|Kind=1|AlternatePart=
+Variation17=Designator=TP4_P3|UniqueId=\WHTUGQDQ\TLRRFPDT|Kind=1|AlternatePart=
+Variation18=Designator=TP2_P3|UniqueId=\WHTUGQDQ\QLYKTHJV|Kind=1|AlternatePart=
+Variation19=Designator=TP2_P4|UniqueId=\NUMJHAKH\QLYKTHJV|Kind=1|AlternatePart=
+Variation20=Designator=TP4_P4|UniqueId=\NUMJHAKH\TLRRFPDT|Kind=1|AlternatePart=
+Variation21=Designator=TP6_P4|UniqueId=\NUMJHAKH\UIVPKKPS|Kind=1|AlternatePart=
+Variation22=Designator=TP5_P4|UniqueId=\NUMJHAKH\ZRWCQICQ|Kind=1|AlternatePart=
+Variation23=Designator=TP3_P4|UniqueId=\NUMJHAKH\SQUYUBBA|Kind=1|AlternatePart=
+Variation24=Designator=TP1_P4|UniqueId=\NUMJHAKH\AQFVMHMX|Kind=1|AlternatePart=
+Variation25=Designator=TP1_P5|UniqueId=\DJVUFGTL\AQFVMHMX|Kind=1|AlternatePart=
+Variation26=Designator=TP3_P5|UniqueId=\DJVUFGTL\SQUYUBBA|Kind=1|AlternatePart=
+Variation27=Designator=TP5_P5|UniqueId=\DJVUFGTL\ZRWCQICQ|Kind=1|AlternatePart=
+Variation28=Designator=TP6_P5|UniqueId=\DJVUFGTL\UIVPKKPS|Kind=1|AlternatePart=
+Variation29=Designator=TP4_P5|UniqueId=\DJVUFGTL\TLRRFPDT|Kind=1|AlternatePart=
+Variation30=Designator=TP2_P5|UniqueId=\DJVUFGTL\QLYKTHJV|Kind=1|AlternatePart=
+Variation31=Designator=TP2_P6|UniqueId=\BBOPYVKP\QLYKTHJV|Kind=1|AlternatePart=
+Variation32=Designator=TP4_P6|UniqueId=\BBOPYVKP\TLRRFPDT|Kind=1|AlternatePart=
+Variation33=Designator=TP6_P6|UniqueId=\BBOPYVKP\UIVPKKPS|Kind=1|AlternatePart=
+Variation34=Designator=TP1_P6|UniqueId=\BBOPYVKP\AQFVMHMX|Kind=1|AlternatePart=
+Variation35=Designator=TP3_P6|UniqueId=\BBOPYVKP\SQUYUBBA|Kind=1|AlternatePart=
+Variation36=Designator=TP5_P6|UniqueId=\BBOPYVKP\ZRWCQICQ|Kind=1|AlternatePart=
+Variation37=Designator=TP1_P7|UniqueId=\FVBWEYOF\AQFVMHMX|Kind=1|AlternatePart=
+Variation38=Designator=TP3_P7|UniqueId=\FVBWEYOF\SQUYUBBA|Kind=1|AlternatePart=
+Variation39=Designator=TP5_P7|UniqueId=\FVBWEYOF\ZRWCQICQ|Kind=1|AlternatePart=
+Variation40=Designator=TP2_P7|UniqueId=\FVBWEYOF\QLYKTHJV|Kind=1|AlternatePart=
+Variation41=Designator=TP4_P7|UniqueId=\FVBWEYOF\TLRRFPDT|Kind=1|AlternatePart=
+Variation42=Designator=TP6_P7|UniqueId=\FVBWEYOF\UIVPKKPS|Kind=1|AlternatePart=
+Variation43=Designator=TP1_P8|UniqueId=\XOKKBLNG\AQFVMHMX|Kind=1|AlternatePart=
+Variation44=Designator=TP3_P8|UniqueId=\XOKKBLNG\SQUYUBBA|Kind=1|AlternatePart=
+Variation45=Designator=TP5_P8|UniqueId=\XOKKBLNG\ZRWCQICQ|Kind=1|AlternatePart=
+Variation46=Designator=TP2_P8|UniqueId=\XOKKBLNG\QLYKTHJV|Kind=1|AlternatePart=
+Variation47=Designator=TP4_P8|UniqueId=\XOKKBLNG\TLRRFPDT|Kind=1|AlternatePart=
+Variation48=Designator=TP6_P8|UniqueId=\XOKKBLNG\UIVPKKPS|Kind=1|AlternatePart=
+Variation49=Designator=TP1_P9|UniqueId=\UFHHDNVX\AQFVMHMX|Kind=1|AlternatePart=
+Variation50=Designator=TP3_P9|UniqueId=\UFHHDNVX\SQUYUBBA|Kind=1|AlternatePart=
+Variation51=Designator=TP5_P9|UniqueId=\UFHHDNVX\ZRWCQICQ|Kind=1|AlternatePart=
+Variation52=Designator=TP2_P9|UniqueId=\UFHHDNVX\QLYKTHJV|Kind=1|AlternatePart=
+Variation53=Designator=TP4_P9|UniqueId=\UFHHDNVX\TLRRFPDT|Kind=1|AlternatePart=
+Variation54=Designator=TP6_P9|UniqueId=\UFHHDNVX\UIVPKKPS|Kind=1|AlternatePart=
+Variation55=Designator=TP2_PA|UniqueId=\FWDXUMSO\QLYKTHJV|Kind=1|AlternatePart=
+Variation56=Designator=TP4_PA|UniqueId=\FWDXUMSO\TLRRFPDT|Kind=1|AlternatePart=
+Variation57=Designator=TP6_PA|UniqueId=\FWDXUMSO\UIVPKKPS|Kind=1|AlternatePart=
+Variation58=Designator=TP5_PA|UniqueId=\FWDXUMSO\ZRWCQICQ|Kind=1|AlternatePart=
+Variation59=Designator=TP3_PA|UniqueId=\FWDXUMSO\SQUYUBBA|Kind=1|AlternatePart=
+Variation60=Designator=TP1_PA|UniqueId=\FWDXUMSO\AQFVMHMX|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for P003_LED_Strip\BOM\Bill of Materials-P003_LED_Strip(Std).xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for P003_LED_Strip\BOM\Bill of Materials-P003_LED_Strip.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Project Outputs for P003_LED_Strip\Design Rule Check - P003_LED_Strip.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for P003_LED_Strip\NC Drill\P003_LED_Strip-NonPlated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for P003_LED_Strip\NC Drill\P003_LED_Strip-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for P003_LED_Strip\NC Drill\P003_LED_Strip.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for P003_LED_Strip\NC Drill\P003_LED_Strip.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for P003_LED_Strip\NC Drill\P003_LED_Strip.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip.REP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for P003_LED_Strip\ExportSTEP\P003_LED_Strip.step
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for P003_LED_Strip\Gerber\P003_LED_Strip_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Parameter1]

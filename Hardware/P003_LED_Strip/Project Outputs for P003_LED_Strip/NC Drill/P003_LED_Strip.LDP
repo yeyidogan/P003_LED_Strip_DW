@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: Z:\git_repo\projects\P003_LED_Strip_DW\Hardware\P003_LED_Strip\P003_LED_Strip.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=p003_led_strip-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=p003_led_strip-nonplated.txt|DrillLayers=gtl,gbl

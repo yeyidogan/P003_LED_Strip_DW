@@ -1,0 +1,90 @@
+Protel Design System Design Rule Check
+PCB File : Z:\git_repo\projects\P003_LED_Strip_DW\Hardware\P003_LED_Strip\P003_LED_Strip.PcbDoc
+Date     : 2025-08-29
+Time     : 7:09:29 PM
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (IsPad),(IsVia)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=200mil) (Preferred=20mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=12mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsVia),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room PA (Bounding Region = (22712mil, 5000mil, 24680mil, 5580mil) (InComponentClass('PA'))
+Rule Violations :0
+
+Processing Rule : Room P9 (Bounding Region = (20744mil, 5000mil, 22712mil, 5580mil) (InComponentClass('P9'))
+Rule Violations :0
+
+Processing Rule : Room P8 (Bounding Region = (18776mil, 5000mil, 20744mil, 5580mil) (InComponentClass('P8'))
+Rule Violations :0
+
+Processing Rule : Room P7 (Bounding Region = (16808mil, 5000mil, 18776mil, 5580mil) (InComponentClass('P7'))
+Rule Violations :0
+
+Processing Rule : Room P6 (Bounding Region = (14840mil, 5000mil, 16808mil, 5580mil) (InComponentClass('P6'))
+Rule Violations :0
+
+Processing Rule : Room P5 (Bounding Region = (12872mil, 5000mil, 14840mil, 5580mil) (InComponentClass('P5'))
+Rule Violations :0
+
+Processing Rule : Room P4 (Bounding Region = (10904mil, 5000mil, 12872mil, 5580mil) (InComponentClass('P4'))
+Rule Violations :0
+
+Processing Rule : Room P3 (Bounding Region = (8936mil, 5000mil, 10904mil, 5580mil) (InComponentClass('P3'))
+Rule Violations :0
+
+Processing Rule : Room P2 (Bounding Region = (6968mil, 5000mil, 8936mil, 5580mil) (InComponentClass('P2'))
+Rule Violations :0
+
+Processing Rule : Room P1 (Bounding Region = (5000mil, 5000mil, 6968mil, 5580mil) (InComponentClass('P1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1200mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:00
